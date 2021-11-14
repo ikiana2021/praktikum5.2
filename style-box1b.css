@@ -1,0 +1,45 @@
+#boxs {
+  width: 240px;
+  height: 160px;
+}
+.box1-1 {
+  position: absolute;
+  border: 2px black solid;
+  width: 250px;
+  height: 25px;
+  background: #96b008;
+}
+.box1-2 {
+  position: absolute;
+  border: 2px black solid;
+  width: 60px;
+  height: 60px;
+  margin-top: 40px;
+  background: #ffe400;
+}
+.box1-3 {
+  position: absolute;
+  border: 2px black solid;
+  width: 180px;
+  height: 60px;
+  margin-top: 40px;
+  margin-left: 70px;
+  background: #ea6d00;
+}
+.box1-4 {
+  position: absolute;
+  border: 2px black solid;
+  width: 60px;
+  height: 50px;
+  margin-top: 115px;
+  background: #ffe400;
+}
+.box1-5 {
+  position: absolute;
+  border: 2px black solid;
+  width: 180px;
+  height: 50px;
+  margin-top: 115px;
+  margin-left: 70px;
+  background: #00fffc;
+}
